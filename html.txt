@@ -35,23 +35,3 @@
         <input placeholder="enter meow's age" type = 'number'/>
     </form> 
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-website link: http://127.0.0.1:3000/html/html?vscode-livepreview=true
